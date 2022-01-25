@@ -5,7 +5,7 @@
 		<img src="https://img.shields.io/badge/github-roblox_typescript-red.svg" alt="roblox-ts"></img>
 	</a>
     <a href="https://www.npmjs.com/package/@rbxts/roact-flipper">
-		<img src=""></img>
+		<img src="https://badge.fury.io/js/@rbxts%2Froact-flipper.svg"></img>
 	</a>
 </div>
 
