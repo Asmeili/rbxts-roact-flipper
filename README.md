@@ -10,13 +10,15 @@
 </div>
 
 <div align="center">
-	A typescript port of <a href='https://github.com/Reselim/roact-flipper'>roact-flipper</a>, Hooks and utility functions to join Roact and Flipper.
+	A typescript port of <a href='https://github.com/Reselim/roact-flipper'>roact-flipper</a>: Hooks and utility functions to join Roact and Flipper.
 </div>
 
 <div>&nbsp;</div>
 
 ## Installation
+
 You can install it via `npm i @rbxts/roact-flipper`.
 
 ## License
+
 The original roact-flipper License can be found here: [roact-flipper License](https://github.com/Reselim/roact-flipper/blob/master/LICENSE)
