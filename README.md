@@ -1,4 +1,4 @@
-<div align="center"><img width=25% src="https://i.imgur.com/yCjHmng.png"></div>
+<div align="center"><img width=25% src="https://github.com/Reselim/roact-flipper/blob/master/.github/logo.svg"></div>
 <h1 align="center">roact-flipper-TS</h1>
 <div align="center">
     <a href="https://github.com/roblox-ts/roblox-ts">
