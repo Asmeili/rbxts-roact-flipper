@@ -1,13 +1,8 @@
 {
 	"name": "@rbxts/roact-flipper",
-	"version": "2.0.0-ts.3",
+	"version": "2.0.0-ts.5",
 	"license": "MIT",
 	"homepage": "https://github.com/Asmeili/rbxts-roact-flipper/blob/main/README.md",
-	"dependencies": {
-		"@rbxts/flipper": "^2.0.1",
-		"@rbxts/roact": "^1.4.0-ts.2",
-		"@rbxts/roact-hooks": "^0.3.0-ts.2"
-	},
 	"devDependencies": {
 		"@rbxts/compiler-types": "^1.2.7-types.1",
 		"@rbxts/flipper": "^2.0.1",
@@ -26,7 +21,8 @@
 	"types": "src/index.d.ts",
 	"main": "src/init.lua",
 	"files": [
-		"src"
+		"src/**",
+		"*.d.ts"
 	],
 	"publishConfig": {
 		"access": "public"
