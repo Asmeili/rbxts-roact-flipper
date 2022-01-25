@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/roact-flipper",
-	"version": "2.0.0",
+	"version": "2.0.0-ts.3",
 	"license": "MIT",
 	"homepage": "https://github.com/Asmeili/rbxts-roact-flipper/blob/main/README.md",
 	"dependencies": {
@@ -10,6 +10,9 @@
 	},
 	"devDependencies": {
 		"@rbxts/compiler-types": "^1.2.7-types.1",
+		"@rbxts/flipper": "^2.0.1",
+		"@rbxts/roact": "^1.4.0-ts.2",
+		"@rbxts/roact-hooks": "^0.3.0-ts.2",
 		"@rbxts/types": "^1.0.571",
 		"@typescript-eslint/eslint-plugin": "^5.10.1",
 		"@typescript-eslint/parser": "^5.10.1",
@@ -27,11 +30,6 @@
 	],
 	"publishConfig": {
 		"access": "public"
-	},
-	"scripts": {
-		"build": "rbxtsc",
-		"watch": "rbxtsc -w",
-		"prepublishOnly": "npm run build"
 	},
 	"repository": {
 		"type": "git",
